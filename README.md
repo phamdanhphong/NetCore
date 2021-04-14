@@ -1,0 +1,2 @@
+# NetCore
+Dự án NetCore
